@@ -1,0 +1,188 @@
+{
+	"info": {
+		"_postman_id": "71745b37-6c1f-4fec-be3a-2e9d5c98570f",
+		"name": "ElasticSearch",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "乐观锁测试",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\": \"firenay\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://10.43.1.52:9200/custome/exteranl/1?if_seq_no=2&if_primary_term=1",
+					"protocol": "http",
+					"host": [
+						"10",
+						"43",
+						"1",
+						"52"
+					],
+					"port": "9200",
+					"path": [
+						"custome",
+						"exteranl",
+						"1"
+					],
+					"query": [
+						{
+							"key": "if_seq_no",
+							"value": "2"
+						},
+						{
+							"key": "if_primary_term",
+							"value": "1"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST带_update",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"doc\":{\n\t\t\"name\":\"lsl\"\n\t}\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://10.43.1.52:9200/custome/exteranl/1/_update",
+					"protocol": "http",
+					"host": [
+						"10",
+						"43",
+						"1",
+						"52"
+					],
+					"port": "9200",
+					"path": [
+						"custome",
+						"exteranl",
+						"1",
+						"_update"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST/PUT不带update",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"doc\":{\n\t\t\"name\":\"lsl\",\n\t\t\"age\":\"1\"\n\t}\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://10.43.1.52:9200/custome/exteranl/1",
+					"protocol": "http",
+					"host": [
+						"10",
+						"43",
+						"1",
+						"52"
+					],
+					"port": "9200",
+					"path": [
+						"custome",
+						"exteranl",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "delete",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://10.43.1.52:9200/custome/",
+					"protocol": "http",
+					"host": [
+						"10",
+						"43",
+						"1",
+						"52"
+					],
+					"port": "9200",
+					"path": [
+						"custome",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "bulk批量操作",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"index\":{\n\t\t\"_id\":\"1\"\n\t}\n}\n{\n\t\"name\":\"lsl\"\n}\n{\n\t\"index\":{\n\t\t\"_id\":\"2\"\n\t}\n}\n{\n\t\t\"name\":\"lsl\"\n\t}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://10.43.1.52:9200/custome/external/_bulk",
+					"protocol": "http",
+					"host": [
+						"10",
+						"43",
+						"1",
+						"52"
+					],
+					"port": "9200",
+					"path": [
+						"custome",
+						"external",
+						"_bulk"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

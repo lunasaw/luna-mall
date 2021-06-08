@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab7ce5e0-de62-495a-b922-7a910dd1345a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mall-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-gateway/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mall-gateway/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-product/src/main/java/com/firenay/mall/product/MallProductApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-product/src/main/java/com/firenay/mall/product/MallProductApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-product/src/main/java/com/firenay/mall/product/config/MybatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-product/src/main/java/com/firenay/mall/product/config/MybatisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-product/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-product/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-third-party/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-third-party/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-third-party/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-third-party/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-third-party/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mall-third-party/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-third-party/src/test/java/com/firenay/mall/thirdparty/MallThirdPartyApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-third-party/src/test/java/com/firenay/mall/thirdparty/MallThirdPartyApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast-vue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast-vue/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast-vue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast-vue/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast-vue/src/components/upload/multiUpload.vue" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast-vue/src/components/upload/multiUpload.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast-vue/src/components/upload/singleUpload.vue" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast-vue/src/components/upload/singleUpload.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1tbm0VQb3QxkrTjywxG1jByokHb" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20718235" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MallThirdPartyApplication">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallThirdPartyApplicationTests.sendSms" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mall-third-party" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.firenay.mall.thirdparty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.firenay.mall.thirdparty" />
+      <option name="MAIN_CLASS_NAME" value="com.firenay.mall.thirdparty.MallThirdPartyApplicationTests" />
+      <option name="METHOD_NAME" value="sendSms" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallCouponApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-coupon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.firenay.mall.coupon.MallCouponApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.firenay.gateway.MallGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallMemberApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-member" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.firenay.mall.member.MallMemberApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.firenay.mall.order.MallOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.firenay.mall.product.MallProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.firenayl.mall.search.MallSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallTestSsoServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-test-sso-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.firenay.mall.sso.MallTestSsoServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallThirdPartyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-third-party" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.firenay.mall.thirdparty.MallThirdPartyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallWareApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-ware" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.firenay.mall.ware.MallWareApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="renren-fast" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="renren-generator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenCodeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MallThirdPartyApplicationTests.sendSms" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab7ce5e0-de62-495a-b922-7a910dd1345a" name="Default Changelist" comment="" />
+      <created>1623045940163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623045940163</updated>
+      <workItem from="1623045941366" duration="6247000" />
+      <workItem from="1623112329558" duration="9786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="25" key="#Project_Structure" timestamp="1623063736412">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state x="320" y="25" key="#Project_Structure/0.25.1920.1005@0.25.1920.1005" timestamp="1623063736412" />
+    <state x="100" y="125" width="1720" height="805" key="DiffContextDialog" timestamp="1623121067143">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state x="100" y="125" width="1720" height="805" key="DiffContextDialog/0.25.1920.1005@0.25.1920.1005" timestamp="1623121067143" />
+    <state width="1408" height="330" key="GridCell.Tab.0.bottom" timestamp="1623121970517">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state width="1408" height="330" key="GridCell.Tab.0.bottom/0.25.1920.1005@0.25.1920.1005" timestamp="1623121970517" />
+    <state width="1408" height="330" key="GridCell.Tab.0.center" timestamp="1623121970511">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state width="1408" height="330" key="GridCell.Tab.0.center/0.25.1920.1005@0.25.1920.1005" timestamp="1623121970511" />
+    <state width="1408" height="330" key="GridCell.Tab.0.left" timestamp="1623121970506">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state width="1408" height="330" key="GridCell.Tab.0.left/0.25.1920.1005@0.25.1920.1005" timestamp="1623121970506" />
+    <state width="1408" height="330" key="GridCell.Tab.0.right" timestamp="1623121970516">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state width="1408" height="330" key="GridCell.Tab.0.right/0.25.1920.1005@0.25.1920.1005" timestamp="1623121970516" />
+    <state width="1408" height="330" key="GridCell.Tab.1.bottom" timestamp="1623121970520">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state width="1408" height="330" key="GridCell.Tab.1.bottom/0.25.1920.1005@0.25.1920.1005" timestamp="1623121970520" />
+    <state width="1408" height="330" key="GridCell.Tab.1.center" timestamp="1623121970519">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state width="1408" height="330" key="GridCell.Tab.1.center/0.25.1920.1005@0.25.1920.1005" timestamp="1623121970519" />
+    <state width="1408" height="330" key="GridCell.Tab.1.left" timestamp="1623121970518">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state width="1408" height="330" key="GridCell.Tab.1.left/0.25.1920.1005@0.25.1920.1005" timestamp="1623121970518" />
+    <state width="1408" height="330" key="GridCell.Tab.1.right" timestamp="1623121970520">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state width="1408" height="330" key="GridCell.Tab.1.right/0.25.1920.1005@0.25.1920.1005" timestamp="1623121970520" />
+    <state x="497" y="168" key="NewModule_or_Project.wizard" timestamp="1623117980471">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state x="497" y="168" key="NewModule_or_Project.wizard/0.25.1920.1005@0.25.1920.1005" timestamp="1623117980471" />
+    <state x="389" y="25" key="SettingsEditor" timestamp="1623117981604">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state x="389" y="25" key="SettingsEditor/0.25.1920.1005@0.25.1920.1005" timestamp="1623117981604" />
+    <state x="541" y="25" width="838" height="1032" key="search.everywhere.popup" timestamp="1623122469551">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state x="541" y="25" width="838" height="1032" key="search.everywhere.popup/0.25.1920.1005@0.25.1920.1005" timestamp="1623122469551" />
+  </component>
+</project>
