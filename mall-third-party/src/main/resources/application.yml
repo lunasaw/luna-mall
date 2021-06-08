@@ -1,13 +1,16 @@
+ipAddr: 127.0.0.1
+server:
+  port: 9060
 spring:
   application:
     name: mall-third-party
   cloud:
     nacos:
       discovery:
-        server-addr: 127.0.0.1:8848
+        server-addr: ${ipAddr}:8848
     sentinel:
       transport:
-        dashboard: localhost:8333
+        dashboard: ${ipAddr}:8333
 
 
 #  zipkin:
@@ -19,5 +22,4 @@ spring:
   sleuth:
     sampler:
       probability: 1
-server:
-  port: 30000
+

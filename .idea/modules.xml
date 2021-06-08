@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/mall-order/mall-order.iml" filepath="$PROJECT_DIR$/mall-order/mall-order.iml" />
       <module fileurl="file://$PROJECT_DIR$/mall-product/mall-product.iml" filepath="$PROJECT_DIR$/mall-product/mall-product.iml" />
       <module fileurl="file://$PROJECT_DIR$/mall-search/mall-search.iml" filepath="$PROJECT_DIR$/mall-search/mall-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-seckill/mall-seckill.iml" filepath="$PROJECT_DIR$/mall-seckill/mall-seckill.iml" />
       <module fileurl="file://$PROJECT_DIR$/mall-test-sso-server/mall-test-sso-server.iml" filepath="$PROJECT_DIR$/mall-test-sso-server/mall-test-sso-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/mall-third-party/mall-third-party.iml" filepath="$PROJECT_DIR$/mall-third-party/mall-third-party.iml" />
       <module fileurl="file://$PROJECT_DIR$/mall-ware/mall-ware.iml" filepath="$PROJECT_DIR$/mall-ware/mall-ware.iml" />

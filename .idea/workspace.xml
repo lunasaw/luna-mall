@@ -5,22 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab7ce5e0-de62-495a-b922-7a910dd1345a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-gateway/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mall-gateway/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-coupon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-coupon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-coupon/src/main/java/com/firenay/mall/coupon/MallCouponApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-coupon/src/main/java/com/firenay/mall/coupon/MallCouponApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-coupon/src/main/java/com/firenay/mall/coupon/controller/CouponController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-coupon/src/main/java/com/firenay/mall/coupon/controller/CouponController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-coupon/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-coupon/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-coupon/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mall-coupon/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-gateway/src/main/java/com/firenay/gateway/MallGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-gateway/src/main/java/com/firenay/gateway/MallGatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-member/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-member/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-member/src/main/java/com/firenay/mall/member/MallMemberApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-member/src/main/java/com/firenay/mall/member/MallMemberApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-member/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-member/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-order/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-order/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-product/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-product/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-product/src/main/java/com/firenay/mall/product/MallProductApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-product/src/main/java/com/firenay/mall/product/MallProductApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-product/src/main/java/com/firenay/mall/product/config/MybatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-product/src/main/java/com/firenay/mall/product/config/MybatisConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-product/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-product/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-third-party/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-third-party/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-third-party/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-third-party/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-third-party/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mall-third-party/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-third-party/src/test/java/com/firenay/mall/thirdparty/MallThirdPartyApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-third-party/src/test/java/com/firenay/mall/thirdparty/MallThirdPartyApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renren-fast-vue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast-vue/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renren-fast-vue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast-vue/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renren-fast-vue/src/components/upload/multiUpload.vue" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast-vue/src/components/upload/multiUpload.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renren-fast-vue/src/components/upload/singleUpload.vue" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast-vue/src/components/upload/singleUpload.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-ware/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-ware/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/renren-fast/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renren-fast/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/RenrenApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/RenrenApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-generator/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/renren-generator/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +56,9 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1tbm0VQb3QxkrTjywxG1jByokHb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -54,6 +66,7 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -62,6 +75,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20718235" />
@@ -70,6 +84,11 @@
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -77,7 +96,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.MallThirdPartyApplication">
+  <component name="RunManager" selected="Spring Boot.MallMemberApplication">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -149,6 +168,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MallSeckillApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-seckill" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.firenay.mall.seckill.MallSeckillApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MallTestSsoServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="mall-test-sso-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.firenay.mall.sso.MallTestSsoServerApplication" />
@@ -199,62 +225,87 @@
       <option name="presentableId" value="Default" />
       <updated>1623045940163</updated>
       <workItem from="1623045941366" duration="6247000" />
-      <workItem from="1623112329558" duration="9786000" />
+      <workItem from="1623112329558" duration="12464000" />
+      <workItem from="1623133246828" duration="1163000" />
+      <workItem from="1623134416079" duration="7850000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="320" y="25" key="#Project_Structure" timestamp="1623063736412">
       <screen x="0" y="25" width="1920" height="1005" />
     </state>
     <state x="320" y="25" key="#Project_Structure/0.25.1920.1005@0.25.1920.1005" timestamp="1623063736412" />
-    <state x="100" y="125" width="1720" height="805" key="DiffContextDialog" timestamp="1623121067143">
+    <state x="460" y="152" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1623139149718">
       <screen x="0" y="25" width="1920" height="1005" />
     </state>
-    <state x="100" y="125" width="1720" height="805" key="DiffContextDialog/0.25.1920.1005@0.25.1920.1005" timestamp="1623121067143" />
-    <state width="1408" height="330" key="GridCell.Tab.0.bottom" timestamp="1623121970517">
+    <state x="460" y="152" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1920.1005@0.25.1920.1005" timestamp="1623139149718" />
+    <state x="414" y="25" width="1089" height="1005" key="CommitChangelistDialog2" timestamp="1623124460054">
       <screen x="0" y="25" width="1920" height="1005" />
     </state>
-    <state width="1408" height="330" key="GridCell.Tab.0.bottom/0.25.1920.1005@0.25.1920.1005" timestamp="1623121970517" />
-    <state width="1408" height="330" key="GridCell.Tab.0.center" timestamp="1623121970511">
+    <state x="414" y="25" width="1089" height="1005" key="CommitChangelistDialog2/0.25.1920.1005@0.25.1920.1005" timestamp="1623124460054" />
+    <state x="100" y="125" width="1720" height="805" key="DiffContextDialog" timestamp="1623135231953">
       <screen x="0" y="25" width="1920" height="1005" />
     </state>
-    <state width="1408" height="330" key="GridCell.Tab.0.center/0.25.1920.1005@0.25.1920.1005" timestamp="1623121970511" />
-    <state width="1408" height="330" key="GridCell.Tab.0.left" timestamp="1623121970506">
+    <state x="100" y="125" width="1720" height="805" key="DiffContextDialog/0.25.1920.1005@0.25.1920.1005" timestamp="1623135231953" />
+    <state width="1408" height="215" key="GridCell.Tab.0.bottom" timestamp="1623141518501">
       <screen x="0" y="25" width="1920" height="1005" />
     </state>
-    <state width="1408" height="330" key="GridCell.Tab.0.left/0.25.1920.1005@0.25.1920.1005" timestamp="1623121970506" />
-    <state width="1408" height="330" key="GridCell.Tab.0.right" timestamp="1623121970516">
+    <state width="1408" height="215" key="GridCell.Tab.0.bottom/0.25.1920.1005@0.25.1920.1005" timestamp="1623141518501" />
+    <state width="1408" height="215" key="GridCell.Tab.0.center" timestamp="1623141518500">
       <screen x="0" y="25" width="1920" height="1005" />
     </state>
-    <state width="1408" height="330" key="GridCell.Tab.0.right/0.25.1920.1005@0.25.1920.1005" timestamp="1623121970516" />
-    <state width="1408" height="330" key="GridCell.Tab.1.bottom" timestamp="1623121970520">
+    <state width="1408" height="215" key="GridCell.Tab.0.center/0.25.1920.1005@0.25.1920.1005" timestamp="1623141518500" />
+    <state width="1408" height="215" key="GridCell.Tab.0.left" timestamp="1623141518499">
       <screen x="0" y="25" width="1920" height="1005" />
     </state>
-    <state width="1408" height="330" key="GridCell.Tab.1.bottom/0.25.1920.1005@0.25.1920.1005" timestamp="1623121970520" />
-    <state width="1408" height="330" key="GridCell.Tab.1.center" timestamp="1623121970519">
+    <state width="1408" height="215" key="GridCell.Tab.0.left/0.25.1920.1005@0.25.1920.1005" timestamp="1623141518499" />
+    <state width="1408" height="215" key="GridCell.Tab.0.right" timestamp="1623141518500">
       <screen x="0" y="25" width="1920" height="1005" />
     </state>
-    <state width="1408" height="330" key="GridCell.Tab.1.center/0.25.1920.1005@0.25.1920.1005" timestamp="1623121970519" />
-    <state width="1408" height="330" key="GridCell.Tab.1.left" timestamp="1623121970518">
+    <state width="1408" height="215" key="GridCell.Tab.0.right/0.25.1920.1005@0.25.1920.1005" timestamp="1623141518500" />
+    <state width="1408" height="215" key="GridCell.Tab.1.bottom" timestamp="1623141518502">
       <screen x="0" y="25" width="1920" height="1005" />
     </state>
-    <state width="1408" height="330" key="GridCell.Tab.1.left/0.25.1920.1005@0.25.1920.1005" timestamp="1623121970518" />
-    <state width="1408" height="330" key="GridCell.Tab.1.right" timestamp="1623121970520">
+    <state width="1408" height="215" key="GridCell.Tab.1.bottom/0.25.1920.1005@0.25.1920.1005" timestamp="1623141518502" />
+    <state width="1408" height="215" key="GridCell.Tab.1.center" timestamp="1623141518502">
       <screen x="0" y="25" width="1920" height="1005" />
     </state>
-    <state width="1408" height="330" key="GridCell.Tab.1.right/0.25.1920.1005@0.25.1920.1005" timestamp="1623121970520" />
-    <state x="497" y="168" key="NewModule_or_Project.wizard" timestamp="1623117980471">
+    <state width="1408" height="215" key="GridCell.Tab.1.center/0.25.1920.1005@0.25.1920.1005" timestamp="1623141518502" />
+    <state width="1408" height="215" key="GridCell.Tab.1.left" timestamp="1623141518501">
       <screen x="0" y="25" width="1920" height="1005" />
     </state>
-    <state x="497" y="168" key="NewModule_or_Project.wizard/0.25.1920.1005@0.25.1920.1005" timestamp="1623117980471" />
-    <state x="389" y="25" key="SettingsEditor" timestamp="1623117981604">
+    <state width="1408" height="215" key="GridCell.Tab.1.left/0.25.1920.1005@0.25.1920.1005" timestamp="1623141518501" />
+    <state width="1408" height="215" key="GridCell.Tab.1.right" timestamp="1623141518502">
       <screen x="0" y="25" width="1920" height="1005" />
     </state>
-    <state x="389" y="25" key="SettingsEditor/0.25.1920.1005@0.25.1920.1005" timestamp="1623117981604" />
+    <state width="1408" height="215" key="GridCell.Tab.1.right/0.25.1920.1005@0.25.1920.1005" timestamp="1623141518502" />
+    <state x="497" y="168" key="NewModule_or_Project.wizard" timestamp="1623137114772">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state x="497" y="168" key="NewModule_or_Project.wizard/0.25.1920.1005@0.25.1920.1005" timestamp="1623137114772" />
+    <state x="524" y="188" key="RollbackChangesDialog" timestamp="1623124487987">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state x="524" y="188" key="RollbackChangesDialog/0.25.1920.1005@0.25.1920.1005" timestamp="1623124487987" />
+    <state x="389" y="25" key="SettingsEditor" timestamp="1623137116083">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state x="389" y="25" key="SettingsEditor/0.25.1920.1005@0.25.1920.1005" timestamp="1623137116083" />
+    <state x="582" y="200" width="755" height="654" key="find.popup" timestamp="1623139123389">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state x="582" y="200" width="755" height="654" key="find.popup/0.25.1920.1005@0.25.1920.1005" timestamp="1623139123389" />
+    <state x="736" y="404" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1623124661684">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state x="736" y="404" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1920.1005@0.25.1920.1005" timestamp="1623124661684" />
     <state x="541" y="25" width="838" height="1032" key="search.everywhere.popup" timestamp="1623122469551">
       <screen x="0" y="25" width="1920" height="1005" />
     </state>

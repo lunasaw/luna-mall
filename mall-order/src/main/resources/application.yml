@@ -1,20 +1,20 @@
-ipAddr: 10.43.1.52
+ipAddr: 127.0.0.1
 server:
-  port: 9000
+  port: 9030
 spring:
   cloud:
     nacos:
       discovery:
-        server-addr: 127.0.0.1:8848
+        server-addr: ${ipAddr}:8848
     sentinel:
       transport:
-        dashboard: localhost:8333
+        dashboard: ${ipAddr}:8333
   application:
     name: mall-order
   datasource:
-    username: root
-    password: mq0000
-    url: jdbc:mysql://${ipAddr}:3306/mall_oms
+    username: luna
+    password: luna
+    url: jdbc:mysql://${ipAddr}:3306/mall-oms
     driver-class-name: com.mysql.cj.jdbc.Driver
   thymeleaf:
     cache: false

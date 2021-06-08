@@ -1,14 +1,17 @@
+ipAddr: 127.0.0.1
+server:
+  port: 88
 spring:
   application:
     name: mall-gateway
   cloud:
     nacos:
       discovery:
-        server-addr: 127.0.0.1:8848
+        server-addr: ${ipAddr}:8848
         # \u8BF7\u6C42\u53C2\u6570\u4E2D\u5E26\u4E86 baidu \u5C31\u53BB\u8F6C\u53D1\u5230 http://www.baidu.com
     sentinel:
       transport:
-        dashboard: localhost:8333
+        dashboard: ${ipAddr}:8333
     gateway:
       routes:
         - id: test_route
@@ -86,5 +89,3 @@ spring:
           uri: lb://mall-product
           predicates:
             - Host=**.glmall.com,glmall.com,item.glmall.com
-server:
-  port: 88

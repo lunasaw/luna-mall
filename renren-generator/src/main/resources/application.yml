@@ -1,3 +1,4 @@
+ipAddr: 127.0.0.1
 server:
   port: 81
 
@@ -7,9 +8,9 @@ spring:
     type: com.alibaba.druid.pool.DruidDataSource
     #MySQL配置
     driverClassName: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://10.43.1.52:3306/mall_wms?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai
-    username: root
-    password: mq0000
+    url: jdbc:mysql://${ipAddr}:3306/mall-wms?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai
+    username: luna
+    password: luna
 
 
   jackson:

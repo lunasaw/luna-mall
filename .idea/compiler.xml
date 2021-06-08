@@ -7,17 +7,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mall-coupon" />
         <module name="mall-ware" />
         <module name="mall-search" />
         <module name="mall-test-sso-server" />
+        <module name="mall-common" />
+        <module name="renren-generator" />
+        <module name="mall-coupon" />
+        <module name="mall-seckill" />
         <module name="mall-third-party" />
         <module name="renren-fast" />
         <module name="mall-order" />
-        <module name="mall-common" />
         <module name="mall-product" />
         <module name="mall-member" />
-        <module name="renren-generator" />
         <module name="mall-gateway" />
       </profile>
     </annotationProcessing>
@@ -30,6 +31,7 @@
       <module name="mall-order" target="1.8" />
       <module name="mall-product" target="1.8" />
       <module name="mall-search" target="1.8" />
+      <module name="mall-seckill" target="1.8" />
       <module name="mall-test-sso-server" target="1.8" />
       <module name="mall-third-party" target="1.8" />
       <module name="mall-ware" target="1.8" />
@@ -39,12 +41,13 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="mall-coupon" options="-parameters" />
-      <module name="mall-gateway" options="-parameters" />
-      <module name="mall-member" options="-parameters" />
-      <module name="mall-order" options="-parameters" />
-      <module name="mall-product" options="-parameters" />
+      <module name="mall-coupon" options="" />
+      <module name="mall-gateway" options="" />
+      <module name="mall-member" options="" />
+      <module name="mall-order" options="" />
+      <module name="mall-product" options="" />
       <module name="mall-search" options="-parameters" />
+      <module name="mall-seckill" options="-parameters" />
       <module name="mall-test-sso-server" options="-parameters" />
       <module name="mall-third-party" options="-parameters" />
       <module name="mall-ware" options="-parameters" />

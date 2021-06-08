@@ -1,4 +1,6 @@
 ipAddr: 127.0.0.1
+server:
+  port: 9040
 spring:
   datasource:
     username: luna
@@ -8,10 +10,10 @@ spring:
   cloud:
     nacos:
       discovery:
-        server-addr: 127.0.0.1:8848
+        server-addr: ${ipAddr}:8848
     sentinel:
       transport:
-        dashboard: localhost:8333
+        dashboard: ${ipAddr}:8333
   # 指定返回时间的格式化
   jackson:
     date-format: yyyy-MM-dd HH:mm:ss
@@ -42,8 +44,7 @@ mybatis-plus:
       # 配置逻辑删除 1代表删除 0代表已删除
       logic-delete-value: 1
       logic-not-delete-value: 0
-server:
-  port: 10001
+
 logging:
   level:
     com.firenay.mall.product: error
